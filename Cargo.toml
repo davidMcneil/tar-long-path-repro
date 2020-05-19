@@ -1,0 +1,8 @@
+[package]
+name = "tar-test"
+version = "0.1.0"
+authors = ["David McNeil <mcneil.david2@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+tar = "0.4.26"
